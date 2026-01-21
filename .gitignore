@@ -5,9 +5,6 @@ node_modules/
 .env
 .env.local
 
-# builds
-client/build
-dist
 
 # logs
 npm-debug.log*
